@@ -52,7 +52,7 @@ $ sudo update-alternatives --install /usr/bin/java java /opt/jdk-16/bin/java 100
 
 4.Update the `/etc/alternatives/java` link.
 
-The below result shows 5 JDK installed on this Ubuntu; choose option 2 for the above extracted JDK 16 `/opt/jdk-16/bin/java`.
+The below result shows 4 JDK installed on this Ubuntu; choose option 1 for the above extracted JDK 16 `/opt/jdk-16/bin/java`.
 
   
 
