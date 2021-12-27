@@ -1,6 +1,6 @@
 # How To Install Java 16 On Ubumtu / Debian
 
-1.Download File ( [Java JDK 16 or Java SE 16](https://jdk.java.net/) )
+1.Download File ( [Java JDK 16 or Java SE 16](https://jdk.java.net/) ) or https://drive.google.com/drive/folders/1j1fSz-tc8lPMOga0kgHHhK-8uN6etAC0?usp=sharing
 
   
 
